@@ -52,4 +52,4 @@
 - 🔒 Faille de sécurité · <sub>*security issue*</sub> : [signalement privé](https://github.com/chrraj7/S-Aloha/security/advisories/new)
 - 💛 Soutenir · <sub>*support*</sub> : [GitHub Sponsors](https://github.com/sponsors/chrraj7) · [comment ça marche](https://github.com/chrraj7/S-Aloha/blob/main/docs/soutenir.md) — <sub>*S-Aloha stays free: no paid edition, no locked feature.*</sub>
 
-<div align="center"><sub>Libre, souverain, sans pistage · <i>Free, sovereign, no tracking</i></sub></div>
+<div align="center"><sub>Libre et souverain · <i>Free and sovereign</i></sub></div>
