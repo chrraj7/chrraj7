@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Leipa — mainteneur de S-Aloha">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F8FAFC"/><stop offset="1" stop-color="#E2E8F0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#0284C7" stop-opacity="0.35"/><stop offset="1" stop-color="#0284C7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#475569" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <text x="72" y="118" font-size="20" font-weight="600" letter-spacing="4" fill="#0284C7">OPEN SOURCE · ITSM · NIS 2</text>
+    <text x="72" y="190" font-size="72" font-weight="800" fill="#0F172A">Leipa</text>
+    <text x="72" y="236" font-size="22" fill="#475569">Mainteneur de S-Aloha — l'ITSM libre, souverain et prêt pour NIS 2</text>
+    <text x="72" y="270" font-size="20" fill="#475569" font-style="italic">Maintainer of S-Aloha — free, sovereign ITSM, NIS 2-ready</text>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#0F172A">
+    <rect x="904" y="96" width="256" height="40" rx="20" fill="#FFFFFF"/><text x="1032" y="122" text-anchor="middle">ITIL 4 · 10 pratiques</text>
+    <rect x="904" y="148" width="256" height="40" rx="20" fill="#FFFFFF"/><text x="1032" y="174" text-anchor="middle">on-prem · Active Directory</text>
+    <rect x="904" y="200" width="256" height="40" rx="20" fill="#FFFFFF"/><text x="1032" y="226" text-anchor="middle">AGPLv3 · 100 % libre</text>
+  </g>
+</svg>
